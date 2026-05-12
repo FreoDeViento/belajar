@@ -2,3 +2,5 @@ Materi Belajar Pemrograman :
   - HTML 
   - CSS 
   - JavaScript
+  - Python 
+  - PHP
