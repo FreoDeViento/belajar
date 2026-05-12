@@ -1,0 +1,3 @@
+Resolusi 2026 : 
+  - Belajar NodeJs
+  - Menguasai & Memahami Laravel
